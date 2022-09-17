@@ -8,13 +8,13 @@ public class Calculator {
 		int num2 = 20;
 		int num3 = 30;
 		int sum = num1 + num2;
-		int sub = num1 - num2;
+
 		int mul = num1 * num2 * num3;
 		int div = num1 / num2;
-		System.out.println("Sum is: "+sum);
-		System.out.println("Sub is: "+sub);
-		System.out.println("Mul is: "+mul);
-		System.out.println("Div is: "+div);
+		System.out.println("Sum is: " + sum);
+
+		System.out.println("Mul is: " + mul);
+		System.out.println("Div is: " + div);
 
 	}
 
