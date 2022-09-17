@@ -9,9 +9,11 @@ public class Calculator {
 		int sum = num1 + num2;
 		int sub = num1 - num2;
 		int mul = num1 * num2;
+		int div = num1 / num2;
 		System.out.println("Sum is: "+sum);
 		System.out.println("Sub is: "+sub);
 		System.out.println("Mul is: "+mul);
+		System.out.println("Div is: "+div);
 
 	}
 
